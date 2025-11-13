@@ -58,7 +58,9 @@ Walletly is a clean, user-friendly expense tracking app built with **Flutter**, 
 
 **Abu_Al_Noman** — Passionate Flutter developer focused on building accessible, beautiful apps for Bengali users.  
 📍 Dhaka, Bangladesh  
-🔗 [LinkedIn Profile](#) | [GitHub](#)
+🔗 [www.linkedin.com/in/
+abu-al-noman-841360269
+](#) | [GitHub](#)
 
 ---
 
